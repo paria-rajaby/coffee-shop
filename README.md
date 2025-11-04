@@ -3,6 +3,10 @@
 A modern and responsive landing page for a coffee shop.  
 Built with HTML, TAILWIND, and JavaScript to showcase a stylish design with smooth user experience.
 
+## Demo
+
+Check out the live vesion of project here[view sit](https://paria-rajaby.github.io/coffee-shop/)
+
 ## 🚀 Features
 
 - Responsive design (works on mobile, tablet, and desktop)
